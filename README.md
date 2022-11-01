@@ -1,13 +1,13 @@
 # IBM-Project-50924-1660929698
-# A Novel Method for Handwritten Digit Recognition System
+# _A Novel Method for Handwritten Digit Recognition System_
 
 
 ## Our Team Member are :
 
-- **KANNAN  G** [Team Leader] 
-- SANTHOSH P 
-- MOHAMMED YOUNUS S
-- PANTA NITHISH KUMAR REDDY 
+- ***_KANNAN  G_*** [Team Leader] 
+- *_SANTHOSH P_* 
+- *_MOHAMMED YOUNUS S_*
+- _*PANTA NITHISH KUMAR REDDY*_ 
 
 
 # About Project: 
