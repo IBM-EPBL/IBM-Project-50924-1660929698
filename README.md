@@ -1,6 +1,8 @@
 # _A Novel Method for Handwritten Digit Recognition System_
 
-![giphy](https://user-images.githubusercontent.com/113978878/202211804-e1205560-3e44-4b46-8b43-d10ff2a5f5de.gif)
+
+  ![giphy](https://user-images.githubusercontent.com/113978878/202211804-e1205560-3e44-4b46-8b43-d10ff2a5f5de.gif)
+
 
 #### TEAM ID : PNT2022TMID28666 
 
